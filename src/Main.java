@@ -1,7 +1,3 @@
-import Entity.Cars;
-import Entity.Employee;
-import Entity.Showroom;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
